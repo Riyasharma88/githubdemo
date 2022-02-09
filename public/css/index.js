@@ -1,0 +1,1 @@
+var demo = "This is folder which contains css folder."
